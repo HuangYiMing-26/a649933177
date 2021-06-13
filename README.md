@@ -1,6 +1,6 @@
 # Myself introduction
 - 👋 Hi, I’m HuangYiMing
-- 👀 I’m interested in LaTex, Matlab, R, Julia, and so on. 
+- 👀 I’m interested in LaTex, Matlab, Python, R, Julia, and so on. 
 - 🌱 I’m currently learning Macroeconomic in Matlab with Dynare.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 649933177@qq.com
